@@ -1,1 +1,5 @@
 # ShapeListApp
+
+Contributors:
+Luke
+Kerry
