@@ -43,7 +43,7 @@ public class Triangle implements Shape {
      * @param base new value for base
      */
     public void setBase(double base) {
-        this.Base = base;
+        this.base = base;
     }
 
     /**
