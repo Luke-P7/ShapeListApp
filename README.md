@@ -6,6 +6,19 @@ and calculate the area of any of the shapes that are added.
 How the program works: Run ShapeManager and you will get to a screen similar to that of screenshot 1. After that you can add any shape you like. Screenshot 2 shows 
 what happens if you click on add circle and enter 2.3 as the radius. Finally, screenshot 3 shows what happens when you click on show area.
 
+UML Diagram
+
+
+
+
+
+
+
+
+
+
+
+![alt text](<Screenshot 2026-10-12 165009.png>)
 
 
 Screenshot 1: The application
