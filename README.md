@@ -18,7 +18,7 @@ UML Diagram
 
 
 
-![alt text](<Screenshot 2026-10-12 165009.png>)
+<img width="1227" height="627" alt="Screenshot 2026-10-12 165009" src="https://github.com/user-attachments/assets/737b78de-18cc-4aa4-840b-db3db2e63777" />
 
 
 Screenshot 1: The application
