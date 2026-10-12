@@ -82,6 +82,6 @@ public class Rectangle implements Shape {
      */
     @Override
     public String toString() {
-        return "Rectangle (width = " + width + " height = " + height + ")";
+        return "Rectangle (" + width + " x " + height + ")";
     }
 }
