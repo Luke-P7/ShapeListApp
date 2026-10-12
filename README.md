@@ -34,6 +34,6 @@ Screenshot 3: Show area
 <img width="1363" height="721" alt="Screenshot 2026-10-12 161450" src="https://github.com/user-attachments/assets/a636df61-39f2-46f0-a3d7-399646ecf54a" />
 
 
-Contributors:
-Luke
-Kerry
+Contributors: <br>
+Luke  <br>
+Kerry  <br>
